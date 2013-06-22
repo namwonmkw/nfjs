@@ -1,5 +1,2 @@
 this is a test of git
-new line of tex
-kjasdhfkjsafdhdsafkjhsdkjfhdsafkj
-askdfjhsdfkjhfs'sadfhsdfkjhsdf
-k;jhsfdkjsafdht
+new line of text
