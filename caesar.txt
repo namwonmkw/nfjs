@@ -1,3 +1,5 @@
+Start of the file
+
 this is a test of git
 new line of text
 this is a second change
