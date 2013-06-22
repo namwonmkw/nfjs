@@ -1,3 +1,4 @@
 this is a test of git
 new line of text
 this is a second change
+another change in the file
